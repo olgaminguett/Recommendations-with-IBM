@@ -39,7 +39,7 @@ Finally, you will complete a machine learning approach to building recommendatio
 In this project for the Udacity Data Scientist NanoDegree, I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. 
 
 ## Files 
-
+.
 ├── Recommendations_with_IBM.html----------# How to recommend articles to users (HTML Format)
 ├── Recommendations_with_IBM.ipynb---------# How to recommend articles to users
 ├── data
@@ -48,7 +48,7 @@ In this project for the Udacity Data Scientist NanoDegree, I will be looking at 
 ├── top_10.p-------------------------------# Check solution (Binary file)
 ├── top_20.p-------------------------------# Check solution (Binary file)
 ├── top_5.p--------------------------------# Check solution (Binary file)
-├── user_item_matrix.p---------------------# Check solution (Binary file)
+└── user_item_matrix.p---------------------# Check solution (Binary file)
 
 
 ## Acknowledgements 
