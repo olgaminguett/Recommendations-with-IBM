@@ -36,7 +36,7 @@ Finally, you will complete a machine learning approach to building recommendatio
 
 ## Motivation
 
-For this project I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. Below It can be seen an example of what the dashboard could look like displaying articles on the IBM Platform.
+In this project for the Udacity Data Scientist NanoDegree, I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. 
 
 ## Files 
 
