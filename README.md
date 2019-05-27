@@ -40,8 +40,16 @@ In this project for the Udacity Data Scientist NanoDegree, I will be looking at 
 
 ## Files 
 
-* Recommendations_with_IBM.ipynb: How to recommend articles to users.
-* Recommendations_with_IBM.html: How to recommend articles to users html format.
+├── Recommendations_with_IBM.html----------# How to recommend articles to users (HTML Format)
+├── Recommendations_with_IBM.ipynb---------# How to recommend articles to users
+├── data
+│   ├── articles_community.csv-------------# Information about articles
+│   └── user-item-interactions.csv---------# User-article interactions
+├── top_10.p-------------------------------# Check solution (Binary file)
+├── top_20.p-------------------------------# Check solution (Binary file)
+├── top_5.p--------------------------------# Check solution (Binary file)
+├── user_item_matrix.p---------------------# Check solution (Binary file)
+
 
 ## Acknowledgements 
 
