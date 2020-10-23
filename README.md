@@ -51,4 +51,16 @@ In this project for the Udacity Data Scientist NanoDegree, I will be looking at 
 
 ## Acknowledgements 
 
-I want to thank IBM Watson Studio platform for providing the dataset and informatio needeed, and Udacity for advice and review.
+I want to thank IBM Watson Studio platform for providing the dataset and information needeed, and Udacity for advice and review.
+
+Projects develop while studying for Udacity Nanodegrees:
+- [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+- [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+## Projects
+
+- [Disaster Response Pipeline](./Disaster_Response_Pipeline/README.md) 
+- [Missing Migrants Project](./MissingMigrantsProject/README.md)
+- [Suicide Rates Overview](./Suicide-Rates-Overviewt/README.md)
+- [Write a Data Science Blog Post](./Write-a-Data-Science-Blog-Post/README.md)
+- [Recommendations with IBM](./Recommendations-with-IBM/README.md)
